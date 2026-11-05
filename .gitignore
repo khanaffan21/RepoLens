@@ -1,3 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+.antigravity-ide/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
 .env
 .env.*
 !.env.example
